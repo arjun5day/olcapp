@@ -1,0 +1,154 @@
+*{
+	margin:0;
+ 	padding:0;}
+
+table {
+font-size:16px;
+font-family:Arial, Helvetica, sans-serif;
+}
+
+h3 {
+}
+
+a {
+}
+
+img {
+}
+
+hr {
+}
+
+body {
+	font-family:"Times New Roman", Times, serif;
+}
+
+#appwrapper {
+	width:1000px; 
+	height:auto; 
+	margin:0 auto;
+}
+
+
+#appbanner {
+	width:1000px; 
+	height:150px; 
+	margin:0px; 
+	background-image:url(../images/appbanner.jpg);}
+
+
+.welcome {
+	margin-left:800px; 
+	margin-top:120px; 
+	background-color:#e1cfd0; position:absolute;
+	}
+.welcome a {
+	text-decoration:none;
+	}
+.welcome a:hover {
+	text-decoration:underline; 
+	color:#0E6727;
+	}
+
+.login {
+	margin:0 auto;
+	}
+
+#appmenuwrap {
+	width:1000px;
+	}
+.appmenu ul li {
+	list-style:none; 
+	margin-left:5px; 
+	padding:0; 
+	display:inline; 
+	width:170px; 
+	height:30px; 
+	float:left; 
+	background-color:#e1cfd0;
+	text-align:center; 
+	font-size:18px; 
+	border-radius:10px; 
+	padding:5px; 
+	border:1px solid #000000;
+	}
+.appmenu a {text-decoration:none;}
+.appmenu ul li:hover {
+	background-color:#0E6727; 
+	color:#FFFFFF;
+	}
+
+
+
+#appbody {
+	width:1000px; 
+	background-color:#003366; 
+	clear:both;
+	}
+
+.appbodyhead {
+	background-color:#e1cfd0; 
+	width:920px; 
+	border:1px #000000 solid; 
+	border-radius:15px; 
+	margin-bottom:5px; 
+	text-align:center; 
+	padding:10px;
+	}
+
+.fullappbody{
+	background-color:#e1cfd0; 
+	width:920px; 
+	border:1px #000000 solid; 
+	border-radius:15px; 
+	margin-bottom:5px; 
+	padding:10px;
+	}
+
+.leftappbody {
+	width:455px; 
+	height:400px; 
+	background-color:#e1cfd0; 
+	border:1px solid #000000; 
+	float:left; 
+	border-radius:15px; 
+	margin-bottom:5px; 
+	padding:5px; 
+	margin-bottom:5px;
+	}
+
+.rightappbody{
+	width:455px; 
+	height:400px; 
+	background-color:#e1cfd0; 
+	border:1px solid #000000; 
+	float:right; 
+	border-radius:15px; 
+	margin:0; 
+	padding:5px;
+	}
+
+#error {
+	color:#FF0000; 
+	font-size:16px;
+	}
+
+
+
+.appfotter {
+	text-align:center; 
+	margin-top:5px; 
+	clear:both;
+	}
+
+.input {
+	width:230px; 
+	height:25px; 
+	border-radius:10px; 
+	border:1px solid #000000; 
+	padding-left:10px;
+	}
+
+.input:hover {
+	background-color:#e1cfd0;
+	}

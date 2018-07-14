@@ -1,0 +1,6 @@
+[30-Nov-2014 15:43:16 Asia/Katmandu] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'arjun_olc'@'localhost' to database 'db_olc' in /home/arjun/public_html/olc/olc_app/includes/database.php on line 2
+[30-Nov-2014 15:43:16 Asia/Katmandu] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/arjun/public_html/olc/olc_app/actions/login_action.php on line 10
+[30-Nov-2014 15:43:16 Asia/Katmandu] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arjun/public_html/olc/olc_app/includes/database.php:2) in /home/arjun/public_html/olc/olc_app/actions/login_action.php on line 21
+[30-Nov-2014 15:47:22 Asia/Katmandu] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'arjun_olc'@'localhost' to database 'arjun_olc' in /home/arjun/public_html/olc/olc_app/includes/database.php on line 2
+[30-Nov-2014 15:47:22 Asia/Katmandu] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/arjun/public_html/olc/olc_app/actions/login_action.php on line 10
+[30-Nov-2014 15:47:22 Asia/Katmandu] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arjun/public_html/olc/olc_app/includes/database.php:2) in /home/arjun/public_html/olc/olc_app/actions/login_action.php on line 21
